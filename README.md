@@ -1,1 +1,1 @@
-Project yang dikerjakan untuk belahar JAVA selama kelas 11. th 2022
+Project yang dikerjakan untuk belajar JAVA selama kelas 11. th 2022
